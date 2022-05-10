@@ -26,7 +26,7 @@
 
 [**12.Arrays-More Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/T12.Arrays-More%20Exercise)
 
-[**13.List](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/T13.List)
+[**13.List**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/T13.List)
 
 [**14.List-Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/T14.List-Exercise)
 
