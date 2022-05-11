@@ -21,3 +21,19 @@
 [**9.Methods-More Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/E09.Methods-More%20Exercise)
 
 [**10.Arrays**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/E10.Arrays)
+
+[**11.Arrays-Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/E11.Arrays-Exercise)
+
+[**12.Arrays-More Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/T12.Arrays-More%20Exercise)
+
+[**13.List**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/T13.List)
+
+[**14.List-Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/T14.List-Exercise)
+
+[**15.List-More Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/T15.List-More%20Exercise)
+
+[**16.Associative Arrays**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/T16.Associative%20Arrays)
+
+[**17.Associative Arrays-Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/T17.Associative%20Arrays-Exercise)
+
+
