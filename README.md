@@ -1,6 +1,41 @@
-# Fundamentals-CSharp-SoftUni
+# **Fundamentals-CSharp**
 
-**Here you can find problem solutions for the following exercises.**
+## _For the course_
+---
+The course examines fundamental concepts in programming, which are the basis for effective and quality training in the professional modules. Learners build on the knowledge gained in the Programming Basics course and begin to use more complex programming concepts and structures such as: arrays, sheets, objects and classes.
+
+Additional technologies needed by every software developer are studied, such as HTML and CSS, HTTP, bitwise operations, and more. The basics of web development are covered, as well as some of the most common technologies and tools, with which the course successfully builds an idea in the students about the upcoming professional modules and the knowledge they will gain from them to become successful software developers.
+
+## _The skills I have acquired_
+---
+* Handling the standard functionality of the programming language
+* Understanding the interrelationship between different IT concepts
+* Basic HTML and CSS skills
+* Working with linear data structures
+* Problem analysis and reduction to computer-executable steps
+
+## _Topics covered in this course_
+---
+* Basic Syntax, Conditional Statements and Loops
+* Git and GitHub
+* Data Types and Variables
+* HTTP Basics
+* Arrays
+* HTML & CSS Basics
+* Methods
+* Bitwise Operations
+* List
+* Objects and Classes
+* Database Basics
+* Associative Arrays
+* QA Introduction
+* Text Processing
+* Software Development Concepts - Part 1
+* Regular Expressions
+* Software Development Concepts - Part 2
+* Problem Solving
+
+# _Here you can find problem solutions for the following exercises._
 
 [**1.Basic Syntax, Conditional Statements and Loops**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/E01.Basic%20Syntax%2C%20Conditional%20Statements%20and%20Loops)
 
