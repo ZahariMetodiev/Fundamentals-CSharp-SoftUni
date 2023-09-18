@@ -71,4 +71,18 @@ Additional technologies needed by every software developer are studied, such as 
 
 [**17.Associative Arrays-Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/T17.Associative%20Arrays-Exercise)
 
+[**E18.Associative Arrays-More Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/E18.Associative%20Arrays-More%20Exercise)
 
+[**E19.Text Processing**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/E19.Text%20Processing)
+
+[**E20.Text Processing-Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/E20.Text%20Processing-Exercise)
+
+[**E20.Text Processing-Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/E20.Text%20Processing-Exercise)
+
+[**E21.Text Processing-More Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/E21.Text%20Processing-More%20Exercise)
+
+[**E22.Objects and Classes**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/E22.Objects%20and%20Classes)
+
+[**E23.Objects and Classes-Exercise**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/E23.Objects%20and%20Classes-Exercise)
+
+[**E24.Regular Expression**](https://github.com/ZahariMetodiev/Fundamentals-CSharp-SoftUni/tree/main/E24.Regular%20Expression)
